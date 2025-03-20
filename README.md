@@ -1,4 +1,4 @@
-## Hi, I'm Adham Abduxoliqov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFjdXB1ZGh6eXQyamZycHFlaHg0a3NwNG1qbXMyc3Iwd2N0djdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="50' height="50">
+## Hi, I'm Adham Abduxoliqov <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFjdXB1ZGh6eXQyamZycHFlaHg0a3NwNG1qbXMyc3Iwd2N0djdkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="50" height="50">
 
 <!--
 **Adkham-Bakhadirovich/Adkham-Bakhadirovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
